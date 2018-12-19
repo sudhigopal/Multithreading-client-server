@@ -1,18 +1,18 @@
 
 osascript -e 'tell app "Terminal"
-	do script "./Desktop/OU_Courses/Data_Networks/Project_2/pcapTest ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Test/1.0.txt"
+	do script "./Desktop/Data_Networks/Project_2/pcapTest ./Desktop/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/Data_Networks/Project_2/Project2Input/1.txt"
 end tell' &
 
 osascript -e 'tell app "Terminal"
-	do script "./Desktop/OU_Courses/Data_Networks/Project_2/pcapTest ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Test/2.0.txt"
+	do script "./Desktop/Data_Networks/Project_2/pcapTest ./Desktop/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/Data_Networks/Project_2/Project2Input/2.txt"
 end tell' &
 
 osascript -e 'tell app "Terminal"
-	do script "./Desktop/OU_Courses/Data_Networks/Project_2/pcapTest ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Test/3.0.txt"
+	do script "./Desktop/Data_Networks/Project_2/pcapTest ./Desktop/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/Data_Networks/Project_2/Project2Input/3.txt"
 end tell' &
 
 osascript -e 'tell app "Terminal"
-	do script "./Desktop/OU_Courses/Data_Networks/Project_2/pcapTest ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/OU_Courses/Data_Networks/Project_2/Project2Test/4.0.txt"
+	do script "./Desktop/Data_Networks/Project_2/pcapTest ./Desktop/Data_Networks/Project_2/Project2Input/Project2Topo.pcap ./Desktop/Data_Networks/Project_2/Project2Input/4.txt"
 end tell' &
 
 
